@@ -1,0 +1,5 @@
+{
+  "name": "Pokémon Encyclopedia Hub",
+  "description": "A comprehensive, Wikipedia-style database for Pokémon information featuring over 1,000 entries with detailed lore, stats, and AI-powered insights.",
+  "requestFramePermissions": []
+}
